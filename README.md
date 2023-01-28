@@ -1,2 +1,1 @@
-# routinganalysisgis
-Routing Analysis with OpenStreetMap &amp; Python
+# Routing Analysis with OpenStreetMap &amp; Python
